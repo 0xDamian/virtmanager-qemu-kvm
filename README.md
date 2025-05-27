@@ -25,7 +25,7 @@ This repository contains concise documentation, command references, and configur
 - `libvirt`, `qemu`, `virt-manager` installed
 - Systemd-based distro (e.g., Ubuntu, Linux Mint)
 
-> [!note] Note
+> **Note**
 > This documentation would work for pretty much anybody, however, Linux systems that are not systemd-based (eg; rc-service) named some packages differently. Simply find the alternative names and install to follow along.
 
 ## License
