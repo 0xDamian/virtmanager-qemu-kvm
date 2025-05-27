@@ -26,7 +26,7 @@ This repository contains concise documentation, command references, and configur
 - Systemd-based distro (e.g., Ubuntu, Linux Mint)
 
 > **Note:**
-> This documentation would work for pretty much anybody, however, Linux systems that are not systemd-based (eg; rc-service) named some packages differently. Simply find the alternative names and install to follow along.
+> This documentation would work for anybody; however, Linux systems that are not systemd-based (eg, rc-service) name some packages differently. Simply find the alternative names and install them to follow along.
 
 ## License
 
